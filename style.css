@@ -1,0 +1,18 @@
+*{
+    background-color: aqua;
+}
+h1{
+    text-align: center;
+    color: red;
+    font-size: 80px;
+}
+button{
+    background-color: red;
+    font-size: 20px;
+    margin-top: 80px;
+    margin-left: 330px;
+    padding: 15px 15px ;
+    border-radius: 10px;
+    text-align: center;
+
+}
